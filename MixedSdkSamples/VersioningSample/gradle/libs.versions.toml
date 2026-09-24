@@ -1,0 +1,21 @@
+# Copyright (c) Meta Platforms, Inc. and affiliates.
+#
+# This source code is licensed under the MIT license found in the
+# LICENSE file in the root directory of this source tree.
+
+[versions]
+agp = "8.13.2"
+kotlin = "2.0.21"
+
+# Select the desired versions of Meta VR OS JSDK and Utility Library
+metavr-os-jsdk = "207"
+metavr-os-utility = "1.0.0"
+
+# Declare libraries for Meta VR OS JSDK and Utility Library for use as dependencies in build.gradle.kts
+[libraries]
+metavr-os-jsdk = { group = "com.meta.metavr", name = "metavr-os-jsdk", version.ref = "metavr-os-jsdk" }
+metavrx-util = { group = "com.meta.metavrx.util", name = "util", version.ref = "metavr-os-utility" }
+
+[plugins]
+android-application = { id = "com.android.application", version.ref = "agp" }
+kotlin-android = { id = "org.jetbrains.kotlin.android", version.ref = "kotlin" }
