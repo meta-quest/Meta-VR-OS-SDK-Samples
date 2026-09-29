@@ -7,6 +7,6 @@
 
 # Utility Library samples
 
-There are currently no dedicated samples demonstrating the **Meta VR OS Utility Library**.
+There are currently no dedicated samples demonstrating the **[Meta VR OS Utility Library](https://developers.meta.com/vr/documentation/android-apps/metavrx-os-utility-library)**.
 
 For samples that intentionally combine the Utility Library with other surfaces (NSDK, JSDK), see [`MixedSdkSamples/`](../MixedSdkSamples/) at the repo root.

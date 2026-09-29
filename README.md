@@ -13,7 +13,7 @@ The Meta VR OS SDK consists of three complementary packages:
 
 - **[Meta VR OS JSDK](https://developers.meta.com/horizon/documentation/android-apps/metavr-os-jsdk/)** — Java APIs for Horizon OS features, akin to the Android SDK. Distributed as the `metavr-os-jsdk` Android library (AAR).
 - **[Meta VR OS NSDK](https://developers.meta.com/horizon/documentation/native/metavr-os-nsdk/metavr-os-nsdk-overview/)** — Native C APIs for Horizon OS features, akin to the Android NDK. Distributed as the `metavr-os-nsdk` Android library (AAR) with Prefab-packaged headers and shared libraries.
-- **Meta VR OS Utility Library** — A "static" library that provides a more convenient and compatible API for common Horizon OS features, akin to AndroidX/Jetpack.
+- **[Meta VR OS Utility Library](https://developers.meta.com/vr/documentation/android-apps/metavrx-os-utility-library)** — A "static" library that provides a more convenient and compatible API for common Horizon OS features, akin to AndroidX/Jetpack.
 
 ## Repository Layout
 

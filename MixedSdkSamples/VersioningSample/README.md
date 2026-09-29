@@ -7,7 +7,7 @@
 
 # Meta VR OS SDK versioning using Meta VR OS JSDK and Utility Library
 
-This sample demonstrates a simple Android Studio project using APIs from the Meta VR OS SDK to query the Meta VR OS SDK version available on a Quest device. Specifically, APIs from both the [Meta VR OS Java Software Development Kit (JSDK)](https://developers.meta.com/horizon/documentation/android-apps/metavr-os-jsdk) and Utility Library are shown.
+This sample demonstrates a simple Android Studio project using APIs from the Meta VR OS SDK to query the Meta VR OS SDK version available on a Quest device. Specifically, APIs from both the [Meta VR OS Java Software Development Kit (JSDK)](https://developers.meta.com/horizon/documentation/android-apps/metavr-os-jsdk) and [Meta VR OS Utility Library](https://developers.meta.com/vr/documentation/android-apps/metavrx-os-utility-library) are shown.
 
 This sample uses Kotlin, but the same APIs are easily accessed via Java.
 
