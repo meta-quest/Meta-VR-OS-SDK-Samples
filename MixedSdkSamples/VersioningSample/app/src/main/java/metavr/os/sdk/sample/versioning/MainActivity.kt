@@ -20,7 +20,7 @@ class MainActivity : Activity() {
   companion object {
     // The Meta VR OS SDK version to compare against when calling isAtOrAbove().
     // Change this value here to compare against a different SDK version.
-    private const val SDK_VERSION_TO_COMPARE_WITH_ISATORABOVE = 204
+    private const val SDK_VERSION_TO_COMPARE_WITH_ISATORABOVE = 207
   }
 
   override fun onCreate(savedInstanceState: Bundle?) {
